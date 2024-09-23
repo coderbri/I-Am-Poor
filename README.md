@@ -19,13 +19,12 @@ This project is an extension of the [I Am Rich](#) app, part of Dr. Angela Yu's 
 Throughout this project, the following key concepts were implemented:
 
 - [x] Setting up a new iOS project from scratch in Xcode ✏️
-- Navigating the Xcode interface and tools 💻
-- Designing an app using iOS UI components within Interface Builder 🎨
-- Integrating image assets into the app 🌃
-- Creating and applying a custom app icon 📱
-- Running and testing the app on both the iOS Simulator and a physical iPhone device 🤳
+- [x] Navigating the Xcode interface and tools 💻
+- [x] Designing an app using iOS UI components within Interface Builder 🎨
+- [x] Integrating image assets into the app 🌃
+- [x] Creating and applying a custom app icon 📱
+- [x] Running and testing the app on both the iOS Simulator and a physical iPhone device 🤳
 
----
 
 ## How to Run
 
