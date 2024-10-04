@@ -1,6 +1,6 @@
 <section align="center">
   <img height="228" src="./readme_assets/rock_app_icon.png" alt="App Icon">
-  <h1>I Am Poor</h1>
+  <h1>I am Poor</h1>
   <p>02 | <em>An Xcode Storyboard and Interface Builder Challenge</em></p>
 </section>
 
@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project is an extension of the [I Am Rich](#) app, part of Dr. Angela Yu's **Complete iOS App Development Bootcamp**. The goal is to apply the concepts from the Xcode Storyboard and Interface Builder unit to recreate and refine this app, reinforcing practical skills with UI design, image assets, and running the app on multiple devices.
+This project is an extension of the [I Am Rich](https://github.com/coderbri/i-am-rich.git) app, part of Dr. Angela Yu's **Complete iOS App Development Bootcamp**. The goal is to apply the concepts from the Xcode Storyboard and Interface Builder unit to recreate and refine this app, reinforcing practical skills with UI design, image assets, and running the app on multiple devices.
 
 ---
 
